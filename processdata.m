@@ -1,5 +1,6 @@
 %run this script to load data, and normalize data
 
+
 load('hw1_mnist35.mat')
 %show 4 training samples
 subplot(2,2,1)
