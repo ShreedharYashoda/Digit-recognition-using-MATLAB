@@ -1,3 +1,4 @@
+
 clear all;
 load('hw1_mnist35.mat')
 
